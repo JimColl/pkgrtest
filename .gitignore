@@ -8,3 +8,4 @@ inst/extdata/sample_ras/timing_samples
 model-debug.Rmd
 cookbooks.R
 OWP_cookbooks.R
+.Rproj.user
