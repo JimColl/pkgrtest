@@ -1,7 +1,7 @@
 
 # pkgrtest
 
-![](man/figures/_rassler_key_image.jpg)
+![](./man/figures/_rassler_key_image.jpg)
 
 <!-- badges: start -->
 
@@ -14,7 +14,7 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 The pkgrtest is testing
 
 - [Deploying
-  pkgrtest](https://JimColl.github.io/pkgrtest/articles/Deploying-RRASSLER.html):
+  pkgrtest](https://JimColl.github.io/pkgrtest/articles/deploying-pkgrtest.html):
   How to make your own “pkgrtest”.
 
 ### Statement of need

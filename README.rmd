@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 ```
 # pkgrtest
 
-![](man/figures/_rassler_key_image.jpg)
+![](./man/figures/_rassler_key_image.jpg)
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 
 The pkgrtest is testing
 
-* [Deploying pkgrtest](https://JimColl.github.io/pkgrtest/articles/Deploying-RRASSLER.html): How to make your own "pkgrtest".
+* [Deploying pkgrtest](https://JimColl.github.io/pkgrtest/articles/deploying-pkgrtest.html): How to make your own "pkgrtest".
 
 ### Statement of need
 
