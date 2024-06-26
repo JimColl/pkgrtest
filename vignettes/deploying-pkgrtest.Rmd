@@ -1,0 +1,22 @@
+---
+title: "Deploying pkgrtest"
+output: rmarkdown::html_vignette
+description: |
+  "How to construct and interact with your own 'pkgrtest'"
+vignette: >
+  %\VignetteIndexEntry{deploying-pkgrtest}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Deploy RRASSLER over sample data
+
+Why don't these load?  What is the right path?
+
+![](../man/figures/silly_pc.jpg)
+
+```{r, eval = TRUE}
+pkgrtest::marco()
+```
+
+

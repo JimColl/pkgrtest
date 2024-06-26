@@ -1,0 +1,18 @@
+Package: pkgrtest
+Type: Package
+Title: pkgrtest
+Version: 0.1.0
+Authors@R: c(person(given = "Jim", family = "Coll", role = c("aut", "cre"), email = "james.coll@test.com",comment = c(ORCID = "0000-0002-6994-6668")))
+Maintainer: Jim Coll <james.coll@test.com>
+Description: A package fortrest
+License: MIT + file LICENSE
+URL: https://github.com/JimColl/pkgrtest
+BugReports: https://github.com/
+Depends: 
+  R (>= 3.5),
+  magrittr
+Imports: 
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+LazyData: true
+VignetteBuilder: knitr

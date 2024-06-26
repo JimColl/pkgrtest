@@ -1,0 +1,16 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: litera
+reference:
+- title: Helpers
+- subtitle: Full references
+  desc: All function documentation
+  contents:
+  - matches(".*")
+
+articles:
+- title: Articles
+  desc: Tutorials, How-To's, and Snippets
+  contents:
+  - deploying-pkgrtest
