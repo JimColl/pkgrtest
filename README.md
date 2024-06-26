@@ -1,7 +1,7 @@
 
 # pkgrtest
 
-![](./man/figures/_rassler_key_image.jpg)
+![](https://github.com/JimColl/pkgrtest/blob/main/man/figures/_rassler_key_image.jpg?raw=true)
 
 <!-- badges: start -->
 
